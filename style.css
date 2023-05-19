@@ -25,7 +25,7 @@ body {
   padding: 0.25rem 1rem;
   border-radius: 5px;
 }
-
+/* nevidím v html */
 .email--expand {
   padding: 1rem;
   background-color: #eee;
@@ -46,7 +46,6 @@ body {
   background-size: contain;
   cursor: pointer;
 }
-
 .email__icon:hover {
   transform: scale(1.1);
 }
